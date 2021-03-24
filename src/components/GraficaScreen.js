@@ -1,5 +1,4 @@
-import React, { useRef, useState, useEffect, createRef } from "react";
-import chartIcon from "../assets/chart-icon.svg";
+import React, { useState, useEffect } from "react";
 import { HorizontalBar } from "@reactchartjs/react-chart.js";
 
 export const GraficaScreen = () => {
